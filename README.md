@@ -1,4 +1,4 @@
-# Red-
-Red a discord bot made with love and hard work 
+# Red
+Red a discord bot 
 
-If you would like to help with this project please contact me
+
